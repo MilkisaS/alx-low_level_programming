@@ -1,9 +1,8 @@
 #include <stdio.h>
 
 /**
- *This program is used to print the sentence 
- *using printf not put
- *and also should return 0
+  * main - Entry point
+  * Return: Always 0 (Success)
  */
 int main(void)
 
