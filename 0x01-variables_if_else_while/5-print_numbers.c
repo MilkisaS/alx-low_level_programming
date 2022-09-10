@@ -7,6 +7,7 @@
   */
 
 int main(void)
+/*This is main function*/
 {
 
 		int num;
