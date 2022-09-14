@@ -4,6 +4,7 @@
 /**
  * print_sign - Prints the sign of a number.
  *
+ * @n: character to be verified.
  * Return: 1 if the number is greater than zero,
  *	0 if the number is zero and
  *	-1 if the number is less than zero.
