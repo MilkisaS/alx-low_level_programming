@@ -1,14 +1,16 @@
 #include "main.h"
 
 /**
- * _isalpha - check the code for Holberton School students.
- *@c: letter being tested
- * Return: Always 0
+ * _isalpha - Check for the letter.
+ *
+ * @l: character to be verified.
+ *
+ * Return: 1 if character is letter, lowercase or uppercase, 0 otherwise.
  */
-int _isalpha(int letter)
 
+int _isalpha(int l)
 {
-	if ((letter >= 65 && letter <= 90) || (letter >= 97 && letter <= 122))
+	if ((l >= 65 && l <= 90) || (l >= 97 && l <= 122))
 		return (1);
 	else
 		return (0);
