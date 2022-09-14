@@ -3,7 +3,7 @@
 /**
  * print_last_digit - Is used to print the last digit of input.
  *
- * @int: Character to be verified.
+ * @n: Character to be verified.
  * Return: Always last digit.
  */
 
