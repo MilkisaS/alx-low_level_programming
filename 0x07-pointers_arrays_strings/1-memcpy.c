@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 
 /**
  * _memcpy - Copies @n bytes from the memory area pointed
@@ -20,4 +20,3 @@ void *_memcpy(void *dest, const void *src, size_t n)
 
 	return (dest);
 }
-
